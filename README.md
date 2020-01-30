@@ -23,6 +23,9 @@ FILE1 FILE2 …. FILEN
 
 
 Примеры использования:
+
 arc --file  data.arc --create a.txt b.bin c.bmp
+
 arc --file  data.arc --extract
+
 arc --file  data.arc --list
